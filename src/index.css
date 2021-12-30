@@ -11,6 +11,7 @@ input{
     padding: 5px;
     color: #553a3a;
     width: 100%;
+    box-sizing: border-box;
 }
 
 button{
@@ -66,4 +67,9 @@ button:hover{
     font-size: 18px;
     line-height: 22px;
     margin: 2%;
+}
+
+
+@media screen and (max-width:550px) {
+    body{padding: 10px;}
 }
