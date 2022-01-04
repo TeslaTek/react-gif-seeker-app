@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing GifGridItem component should show the gif card 1`] = `
+<div
+  className="gifContainer"
+>
+  <img
+    alt="xuxa"
+    src="https://media0.giphy.com/media/1xVfKGUiAh0TWrZkN9/giphy.gif?cid=be4fc6a44gfvd9765lcax753gy52pjo86o1e68fkxv3w68ju&rid=giphy.gif&ct=g"
+    width="300"
+  />
+  <h4>
+    xuxa
+     
+  </h4>
+</div>
+`;
